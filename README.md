@@ -26,8 +26,8 @@ Based on predefined distance ranges, the system executes distinct motor position
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](path/to/your/circuit-image.jpg)  
-*(Note: Replace this path with the image URL after uploading your circuit photo to the GitHub repository)*
+![Circuit Diagram](https://github.com/jumanah2004/Smart-Distance-Responsive-Servo-System/blob/d72dcc598bcde0e1505eff5c01365c2c18551378/imeg1.jpeg)  
+---
 
 ### Pinout Connections:
 - **HC-SR04 Ultrasonic Sensor:**
