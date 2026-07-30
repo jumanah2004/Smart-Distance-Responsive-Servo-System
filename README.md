@@ -119,3 +119,11 @@ void loop()
 
   delay(200); // Short delay to stabilize sensor readings
 }
+
+
+## 🚀 Practical Applications
+
+* **Smart Home:** Touchless waste bins, automated faucets, and smart door locks.
+* **Access Control:** Automated parking barriers that lift upon vehicle proximity.
+* **Robotics:** Obstacle avoidance navigation and interactive robotic grippers.
+* **Industrial Automation:** Conveyor sorting arms and proximity safety shields.
