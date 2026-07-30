@@ -43,7 +43,9 @@ Based on predefined distance ranges, the system executes distinct motor position
 ---
 ## 📹 Demo / Run Video
 
-[![Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/user-attachments/assets/c9485bee-ae7a-495b-a629-b85f2dfb40d5
+
+[![ asleo Project Demo](https://github.com/user-attachments/assets/c9485bee-ae7a-495b-a629-b85f2dfb40d5)
 
 ---
 
