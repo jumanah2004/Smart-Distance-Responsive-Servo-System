@@ -15,12 +15,12 @@ Based on predefined distance ranges, the system executes distinct motor position
 
 ## 🛠️ Components Used
 
-* **Microcontroller:** Arduino UNO (or compatible board)
+* **Microcontroller:** Arduino UNO 
 * **Distance Sensor:** Ultrasonic Sensor (HC-SR04)
 * **Actuator:** Micro Servo Motor (TowerPro SG90)
 * **Connectors:** Jumper Wires (Male-to-Male / Male-to-Female)
-* **Prototyping / Mounting:** Breadboard or Cardboard Chassis
-* **Power/Data:** USB Type-A to Type-B Cable
+* **Prototyping / Mounting:**  Cardboard Chassis
+* **Power/Data:** USB  Type-B Cable
 
 ---
 
@@ -43,7 +43,7 @@ Based on predefined distance ranges, the system executes distinct motor position
 ---
 ## 📹 Demo / Run Video
 
-https://github.com/user-attachments/assets/c9485bee-ae7a-495b-a629-b85f2dfb40d5
+
 
 [also the link of video!](https://github.com/user-attachments/assets/c9485bee-ae7a-495b-a629-b85f2dfb40d5)
 
@@ -119,8 +119,8 @@ void loop()
 
   delay(200); // Short delay to stabilize sensor readings
 }
-
-
+```
+----
 ## 🚀 Practical Applications
 
 * **Smart Home:** Touchless waste bins, automated faucets, and smart door locks.
