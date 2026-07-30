@@ -45,7 +45,7 @@ Based on predefined distance ranges, the system executes distinct motor position
 
 
 
-[also the link of video!](https://github.com/user-attachments/assets/c9485bee-ae7a-495b-a629-b85f2dfb40d5)
+[also the link of video!](https://github.com/user-attachments/assets/f0957029-369d-4b62-bcd1-62f403ddce42)
 
 ---
 
